@@ -6,7 +6,7 @@ Setup Ansible Master and Nodes manually in Docker containers and inside a Kubern
 *Note: Don't use pre-created images.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project1-Ansible-Cluster-in-Docker-Container-and-Kubernetes-Pod.git](https://github.com/Sayantan2k24/LW-Project1-Ansible-Cluster-in-Docker-Container-and-Kubernetes-Pod.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_ansible-cluster-kubernetes-activity-7340231741107798016-4UyM](https://www.linkedin.com/posts/sayantan-samanta_ansible-cluster-kubernetes-activity-7340231741107798016-4UyM)
+* **LinkedIn:** https://www.linkedin.com/posts/sayantan-samanta_ansible-cluster-kubernetes-activity-7340231741107798016-4UyM?utm_source=share&utm_medium=member_android&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc
 
 ---
 
