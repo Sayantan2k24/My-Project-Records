@@ -346,7 +346,7 @@ Use Ansible to provision a complete LAMP stack (Linux, Apache, MySQL, PHP) insid
 
 GitHub: https://github.com/Sayantan2k24/LW-Project-09-Provision-Multi-Tier-Infrastructure-using-Ansible-on-Kubernetes-LAMP-Stack.git
 
-LinkedIn: https://www.linkedin.com/posts/sayantan-samanta_devops-ansible-kubernetes-activity-7355115995369222144-Wvtx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc
+LinkedIn: https://www.linkedin.com/posts/sayantan-samanta_devops-ansible-kubernetes-activity-7355115995369222144-Wvtx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc
 
 ===
 
