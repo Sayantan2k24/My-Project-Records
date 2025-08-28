@@ -17,7 +17,7 @@ Manually install Jenkins in Docker and deploy a multi-agent Jenkins setup in Kub
 *Note: Don't use pre-created images.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project2-Jenkins-Cluster-in-Docker-Container-and-Kubernetes-Pod.git](https://github.com/Sayantan2k24/LW-Project2-Jenkins-Cluster-in-Docker-Container-and-Kubernetes-Pod.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_devops-kubernetes-jenkins-activity-7340676865612742656-VydH](https://www.linkedin.com/posts/sayantan-samanta_devops-kubernetes-jenkins-activity-7340676865612742656-VydH)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_devops-kubernetes-jenkins-activity-7340676865612742656-VydH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_devops-kubernetes-jenkins-activity-7340676865612742656-VydH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
