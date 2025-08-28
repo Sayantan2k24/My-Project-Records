@@ -28,7 +28,7 @@ Use Ansible to build Docker images and deploy containers on a custom Kubernetes 
 *Note: All Docker and K8s setup must be manual.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project3-Deploy-a-Dockerized-WebApp-using-Ansible-Playbook-on-Kubernetes-Cluster.git](https://github.com/Sayantan2k24/LW-Project3-Deploy-a-Dockerized-WebApp-using-Ansible-Playbook-on-Kubernetes-Cluster.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_ansible-docker-kubernetes-activity-7340708198259003393-sk1M](https://www.linkedin.com/posts/sayantan-samanta_ansible-docker-kubernetes-activity-7340708198259003393-sk1M)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_ansible-docker-kubernetes-activity-7340708198259003393-sk1M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_ansible-docker-kubernetes-activity-7340708198259003393-sk1M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -39,7 +39,7 @@ Jenkins pipelines must be configured to build Docker images and push to a self-h
 *Note: Create Jenkins from scratch, no image pulling.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/flask-app-for-jenkins-docker-self-hosted-registry.git](https://github.com/Sayantan2k24/flask-app-for-jenkins-docker-self-hosted-registry.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_vimaldaga-devops-jenkins-activity-7340691155153514499-wv1K](https://www.linkedin.com/posts/sayantan-samanta_vimaldaga-devops-jenkins-activity-7340691155153514499-wv1K)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_vimaldaga-devops-jenkins-activity-7340691155153514499-wv1K?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_vimaldaga-devops-jenkins-activity-7340691155153514499-wv1K?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -50,7 +50,7 @@ Implement a CI/CD pipeline that pulls code, builds Docker image, and runs Ansibl
 *Note: No DockerHub/ready images.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project05-Configure-CI-CD-Pipeline-Jenkins-Ansible-Docker-from-scratch.git](https://github.com/Sayantan2k24/LW-Project05-Configure-CI-CD-Pipeline-Jenkins-Ansible-Docker-from-scratch.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_devops-jenkins-docker-activity-7340966536653737984-rBEJ](https://www.linkedin.com/posts/sayantan-samanta_devops-jenkins-docker-activity-7340966536653737984-rBEJ)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_devops-jenkins-docker-activity-7340966536653737984-rBEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_devops-jenkins-docker-activity-7340966536653737984-rBEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -61,7 +61,7 @@ On top of the cluster, install Jenkins and Ansible manually in pods to automate 
 *Note: Cluster setup must be done manually using kubeadm.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project-06-Kubeadm-Multi-Node-Deploy-Dockerized-Jenkins-Ansible-Automate-Deployment.git](https://github.com/Sayantan2k24/LW-Project-06-Kubeadm-Multi-Node-Deploy-Dockerized-Jenkins-Ansible-Automate-Deployment.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_devops-kubernetes-ciabrcd-activity-7344365449603645441-cgR6](https://www.linkedin.com/posts/sayantan-samanta_devops-kubernetes-ciabrcd-activity-7344365449603645441-cgR6)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_devops-kubernetes-ciabrcd-activity-7344365449603645441-cgR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_devops-kubernetes-ciabrcd-activity-7344365449603645441-cgR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -72,7 +72,7 @@ Use Ansible installed in Kubernetes pods to configure and manage application con
 *Note: Manual setup of Ansible inside Pods only.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project-07-Ansible-Driven-Configuration-Management-Inside-Kubernetes-Pod-apache.git](https://github.com/Sayantan2k24/LW-Project-07-Ansible-Driven-Configuration-Management-Inside-Kubernetes-Pod-apache.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_github-sayantan2k24lw-project-07-ansible-driven-configuration-management-inside-kubernetes-pod-apache-activity-7355044187685158912-vKEb](https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-07-ansible-driven-configuration-management-inside-kubernetes-pod-apache-activity-7355044187685158912-vKEb)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-07-ansible-driven-configuration-management-inside-kubernetes-pod-apache-activity-7355044187685158912-vKEb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-07-ansible-driven-configuration-management-inside-kubernetes-pod-apache-activity-7355044187685158912-vKEb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -83,7 +83,7 @@ Demonstrate a complete CI/CD flow where code triggers Jenkins build, deploys via
 *Note: Each tool manually installed without using images.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project-08-Full-DevOps-Workflow-CodePush-JenkinsBuild-Ansible-Deploy-DockerContainer-K8s-Service.git](https://github.com/Sayantan2k24/LW-Project-08-Full-DevOps-Workflow-CodePush-JenkinsBuild-Ansible-Deploy-DockerContainer-K8s-Service.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_github-sayantan2k24lw-project-08-full-devops-workflow-codepush-jenkinsbuild-ansible-deploy-dockercontainer-k8s-service-activity-7355044111940313088-YHcs](https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-08-full-devops-workflow-codepush-jenkinsbuild-ansible-deploy-dockercontainer-k8s-service-activity-7355044111940313088-YHcs)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-08-full-devops-workflow-codepush-jenkinsbuild-ansible-deploy-dockercontainer-k8s-service-activity-7355044111940313088-YHcs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-08-full-devops-workflow-codepush-jenkinsbuild-ansible-deploy-dockercontainer-k8s-service-activity-7355044111940313088-YHcs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -94,7 +94,7 @@ Use Ansible to provision a complete LAMP stack (Linux, Apache, MySQL, PHP) insid
 *Note: Build base images manually, no pre-built images allowed.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project-09-Provision-Multi-Tier-Infrastructure-using-Ansible-on-Kubernetes-LAMP-Stack.git](https://github.com/Sayantan2k24/LW-Project-09-Provision-Multi-Tier-Infrastructure-using-Ansible-on-Kubernetes-LAMP-Stack.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_devops-ansible-kubernetes-activity-7355115995369222144-Wvtx](https://www.linkedin.com/posts/sayantan-samanta_devops-ansible-kubernetes-activity-7355115995369222144-Wvtx)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_devops-ansible-kubernetes-activity-7355115995369222144-Wvtx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_devops-ansible-kubernetes-activity-7355115995369222144-Wvtx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
 
 ---
 
@@ -105,4 +105,4 @@ Use Ansible to install and configure Prometheus, Node Exporter, and Grafana insi
 *Note: Manual installation of all tools, no DockerHub images.*
 
 * **GitHub:** [https://github.com/Sayantan2k24/LW-Project-10-Dockerized-Microservice-Application-with-Prometheus-and-Grafana.git](https://github.com/Sayantan2k24/LW-Project-10-Dockerized-Microservice-Application-with-Prometheus-and-Grafana.git)
-* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta\_github-sayantan2k24lw-project-10-dockerized-microservice-application-with-prometheus-and-grafana-activity-7355206534865346560-ajJ0](https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-10-dockerized-microservice-application-with-prometheus-and-grafana-activity-7355206534865346560-ajJ0)
+* **LinkedIn:** [https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-10-dockerized-microservice-application-with-prometheus-and-grafana-activity-7355206534865346560-ajJ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc](https://www.linkedin.com/posts/sayantan-samanta_github-sayantan2k24lw-project-10-dockerized-microservice-application-with-prometheus-and-grafana-activity-7355206534865346560-ajJ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbNCaIBkFADKwDSu_dlAUDU-CfjobcEmvc)
